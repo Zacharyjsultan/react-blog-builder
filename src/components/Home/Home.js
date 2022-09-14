@@ -13,6 +13,7 @@ export default function Home() {
       {/* pass the state variables as props to the presentational components */}
       <Preview />
       <Editor />
+      <div></div>
     </main>
   );
 }
